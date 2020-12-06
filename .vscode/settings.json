@@ -1,0 +1,16 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": false,
+    "source.fixAll.eslint": false
+  },
+  "prettier.arrowParens": "always",
+  "prettier.bracketSpacing": true,
+  "prettier.endOfLine": "auto",
+  "prettier.printWidth": 110,
+  "prettier.semi": true,
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2,
+  "prettier.trailingComma": "all"
+}

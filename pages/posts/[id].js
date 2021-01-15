@@ -24,6 +24,8 @@ export default function Post({ postData }) {
   );
 }
 
+// Use `getStaticProps` to fetch a specific post given an ID
+//  and `getStaticPaths` to fetch all possible blog posts.
 export async function getStaticPaths() {
   const paths = getAllPostIds();
   return {
@@ -39,7 +41,7 @@ export async function getStaticPaths() {
     paths,
     /**
      * fallback: required key
-     * * false:
+     * * false: then any paths not returned by getStaticPaths will result in a 404 page.
      */
     fallback: false,
   };

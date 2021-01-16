@@ -28,3 +28,16 @@ export async function getStaticProps() {
 ## Server Side Rendering (SSR)
 
 # Deploying Your Next.js App
+
+# Add Typescript
+
+1. Add `tsconfig.json` in root.
+2. Install package
+
+```
+* If you’re using npm
+npm install --save-dev typescript @types/react @types/node
+
+* If you’re using Yarn
+yarn add --dev typescript @types/react @types/node
+```

@@ -1,5 +1,9 @@
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
+# Deploy by Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fnibvay%2Fnextjs-blog)
+
 # Pre-rendering and Data Fetching
 
 ## Static Site Generation (SSG)

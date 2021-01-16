@@ -22,3 +22,5 @@ export async function getStaticProps() {
 ```
 
 ## Server Side Rendering (SSR)
+
+# Deploying Your Next.js App

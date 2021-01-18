@@ -11,5 +11,7 @@
   "prettier.semi": true,
   "prettier.singleQuote": true,
   "prettier.tabWidth": 2,
-  "prettier.trailingComma": "all"
+  "prettier.trailingComma": "all",
+  "typescript.format.enable": true,
+  "typescript.validate.enable": true
 }

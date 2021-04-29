@@ -1,7 +1,7 @@
+import Link from 'next/link';
 import Head from 'next/head';
 import styles from './layout.module.css';
 import utilStyles from '../public/styles/utils.module.css';
-import Link from 'next/link';
 
 const name = 'Ivy Fang';
 export const siteTitle = 'Next.js Sample Website';
